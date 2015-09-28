@@ -1,0 +1,17 @@
+This folder contains the STLs for all 3D printed parts in EduRover
+material: PLA
+layer height: 0.1mm
+Infill: %100
+
+
+Part						quantity	colour
+SD-105 DC Plug					1		Blue
+SD-201 Chassis Front			1		Blue
+SD-202 Chassis Bottom			1		Blue
+SD-203 Chassis Back				1		Blue
+SD-204 Wheel Bearing Retainer	4		White
+SD-205 Steering Linkage			4		White
+SD-206 Servo Horn				6		White
+SD-207 EduRover Wheel			4		Black
+SD-209 Knuckle					4		White
+SD-212 Alignment Jig			1		Blue	
